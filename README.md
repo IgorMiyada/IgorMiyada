@@ -1,6 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
-
-**`Desenvolvedora FullStack`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Igor;Welcome+!)](https://git.io/typing-svg)
 
 Graduated in Computer Science | Developer in constant evolution
 Experience in both software development and IT support, working with technologies such as C#, ASP.NET Framework, Web APIs, SQL Server, as well as tools like Postman and Active Directory.
