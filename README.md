@@ -7,7 +7,7 @@ I value continuous learning and I'm always seeking new experiences that contribu
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,git,figma&theme=dark)](https://skillicons.dev)
 <br/>
 <br/>
 
