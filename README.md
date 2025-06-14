@@ -13,24 +13,8 @@ I value continuous learning and I'm always seeking new experiences that contribu
 
 ### 📊 Statistics
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IgorMiyada&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMiyada&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-
+![IgorMiyada GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorMiyada&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMiyada&layout=compact&theme=tokyonight)
 ###  🌐 Find me on : 
 
 <a href = "https://www.linkedin.com/in/igor-miyada/" target = "_blank">
