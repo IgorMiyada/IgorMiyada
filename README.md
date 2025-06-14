@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Igor;Welcome+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Igor+Miyada;Welcome+!)](https://git.io/typing-svg)
 
 Graduated in Computer Science | Developer in constant evolution
 I value continuous learning and I'm always seeking new experiences that contribute to my personal and professional growth.
